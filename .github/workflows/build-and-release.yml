@@ -1,0 +1,94 @@
+name: Build and Release macOS App
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'Target Release Tag'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: macos-26
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Select Xcode
+        run: |
+          sudo xcode-select -s /Applications/Xcode.app
+          xcodebuild -version
+
+      - name: Build and Archive
+        run: |
+          WORKSPACE=$(find . -maxdepth 2 -name "*.xcworkspace" ! -path "*.xcodeproj/*" | head -n 1)
+          PROJECT=$(find . -maxdepth 1 -name "*.xcodeproj" | head -n 1)
+
+          BUILD_FLAG=()
+          if [ -n "$WORKSPACE" ]; then
+            BUILD_FLAG=("-workspace" "$WORKSPACE")
+          elif [ -n "$PROJECT" ]; then
+            BUILD_FLAG=("-project" "$PROJECT")
+          else
+            echo "Error: No .xcworkspace or .xcodeproj found."
+            exit 1
+          fi
+
+          SCHEME="App"
+          if ! xcodebuild -list "${BUILD_FLAG[@]}" | grep -q "^\s*${SCHEME}$"; then
+            SCHEME=$(xcodebuild -list "${BUILD_FLAG[@]}" | awk '/Schemes:/{flag=1; next} flag && NF{print $1; exit}')
+          fi
+
+          echo "Building scheme: $SCHEME"
+
+          xcodebuild archive \
+            "${BUILD_FLAG[@]}" \
+            -scheme "$SCHEME" \
+            -configuration Release \
+            -archivePath build/MacMouseFix.xcarchive \
+            -destination "generic/platform=macOS" \
+            CODE_SIGN_IDENTITY="-" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=YES \
+            CODE_SIGN_STYLE=Manual \
+            DEBUG_INFORMATION_FORMAT=dwarf-with-dsym
+
+      - name: Code Sign and Package
+        run: |
+          APP_PATH=$(find build/MacMouseFix.xcarchive/Products/Applications -maxdepth 1 -name "*.app" | head -n 1)
+          if [ -z "$APP_PATH" ]; then
+            echo "Error: No .app found in archive."
+            exit 1
+          fi
+
+          # Ad-hoc sign so the app is runnable without a Developer ID
+          codesign --force --deep --sign - "$APP_PATH"
+
+          mkdir -p artifacts
+          ditto -c -k --sequesterRsrc --keepParent "$APP_PATH" artifacts/MacMouseFixApp.zip
+
+          # Package dSYMs only if they were produced
+          if [ -d "build/MacMouseFix.xcarchive/dSYMs" ]; then
+            (cd build/MacMouseFix.xcarchive/dSYMs && zip -r -y "../../../artifacts/dSYMs.zip" .)
+          fi
+
+      - name: Upload to GitHub Release
+        uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/') || github.event.inputs.release_tag != ''
+        with:
+          tag_name: ${{ github.event.inputs.release_tag != '' && github.event.inputs.release_tag || github.ref_name }}
+          files: |
+            artifacts/MacMouseFixApp.zip
+            artifacts/dSYMs.zip
+          fail_on_unmatched_files: false
+          generate_release_notes: true
