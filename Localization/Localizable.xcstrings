@@ -34,10 +34,22 @@
             "value" : "Ouvrir les préférences « Sécurité et confidentialité »"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'プライバシーとセキュリティ'設定を開く"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "'보안 및 개인 정보 보호' 설정 열기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åpne \"Sikkerhet og personvern\"-innstillinger"
           }
         },
         "pt-BR" : {
@@ -56,6 +68,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "'Güvenlik ve Gizlilik' Ayarlarını Açın"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрийте параметр 'Приватність і безпека'"
           }
         },
         "vi" : {
@@ -117,10 +135,22 @@
             "value" : "Vous **utilisez déjà** le réglage par défaut pour une souris avec **3 boutons**"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**3ボタン**マウス向けのデフォルト設定は、すでに**適用されています**"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "이미 **3개 버튼**의 마우스에 해당하는 기본 설정을 사용 중입니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du **bruker allerede** standardinnstillingen for mus med **3 knapper**"
           }
         },
         "pt-BR" : {
@@ -141,10 +171,16 @@
             "value" : "**Halihazırda** 3 düğmeli fareler için varsayılan ayarı kullanıyorsunuz."
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ви **вже використовуєте** типові налаштування для миші з **3 кнопками**"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Bạn **đã và đang sử dụng** thiết lập mặc định với chuột __3 nút__"
+            "state" : "translated",
+            "value" : "Bạn **đang sử dụng** thiết lập mặc định cho chuột với **nút thứ 3**"
           }
         },
         "zh-Hans" : {
@@ -194,10 +230,22 @@
             "value" : "Ya estás **usando** la configuración predeterminada para ratones con **5+ botones**"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**5ボタン以上**マウス向けのデフォルト設定は、すでに**適用されています**"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "이미 **5개 버튼**의 마우스에 해당하는 기본 설정을 사용 중입니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du **bruker allerede** standardinnstillingen for mus med **5+ knapper**"
           }
         },
         "pt-BR" : {
@@ -214,14 +262,20 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "**Halihazırda** 5+ düğmeli fareler için varsayılan ayarı kullanıyorsunuz."
+            "state" : "translated",
+            "value" : "**Zaten** 5+ düğmeli fareler için varsayılan ayarı kullanıyorsunuz."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ви **вже використовуєте** типові налаштування для миші з **5+ кнопками**"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Bạn **đã và đang sử dụng** thiết lập mặc định với chuột **5+ nút**"
+            "state" : "translated",
+            "value" : "Bạn **đang sử dụng** thiết lập mặc định cho chuột với **nút thứ 5+**"
           }
         },
         "zh-Hans" : {
@@ -277,6 +331,18 @@
             "value" : "Version %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バージョン %@"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versjon %@"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -293,6 +359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sürüm %@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Версія %@"
           }
         },
         "vi" : {
@@ -347,6 +419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Geri Sarma tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊉 (Перемотування назад)>"
           }
         },
         "vi" : {
@@ -411,6 +489,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇪"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "⇪"
@@ -483,6 +567,12 @@
             "value" : "<Hızlı-İleri Sarma tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊋 (Перемотування вперед)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -548,6 +638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Emoji Seçici tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀆪 (Емодзі)>"
           }
         },
         "vi" : {
@@ -617,6 +713,12 @@
             "value" : "<Klavye Parlaklığını Artırma tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀇮 (Збільшення яскравості клавіатури)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -682,6 +784,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Klavye Parlaklığını Azaltma tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀇭 (Зменшення яскравості клавіатури)>"
           }
         },
         "vi" : {
@@ -751,6 +859,12 @@
             "value" : "<Spotlight tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊫 (Spotlight)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -816,6 +930,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Dikte tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊰 (Диктування)>"
           }
         },
         "vi" : {
@@ -885,6 +1005,12 @@
             "value" : "<Rahatsız Etmeyin tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀆹 (Не турбувати)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -950,6 +1076,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Oynat veya Duraklat tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊇 (Відтворення або пауза)>"
           }
         },
         "vi" : {
@@ -1019,6 +1151,12 @@
             "value" : "<Güç tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀆨 (Живлення)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1084,6 +1222,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Mission Control tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀇴 (Mission Control)>"
           }
         },
         "vi" : {
@@ -1153,6 +1297,12 @@
             "value" : "<Sessize Alma tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊠 (Вимкнення звуку)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1218,6 +1368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Sesi Azaltma tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊤 (Зменшення гучності)>"
           }
         },
         "vi" : {
@@ -1287,6 +1443,12 @@
             "value" : "<Sesi Artırma tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀊨 (Збільшення гучності)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1352,6 +1514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Launchpad tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀇵 (Launchpad)>"
           }
         },
         "vi" : {
@@ -1421,6 +1589,12 @@
             "value" : "<Parlaklığı Artırma tuşu>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀆭 (Збільшення яскравості)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1486,6 +1660,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "<Parlaklığı azaltma tuşu>"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<􀆫 (Зменшення яскравості)>"
           }
         },
         "vi" : {
@@ -1555,6 +1735,12 @@
             "value" : "<Açıklaması Olmayan tuş>"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "<(Без опису)>"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1584,6 +1770,7 @@
     },
     "beta-alert.back" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1650,6 +1837,7 @@
     },
     "beta-alert.body" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1666,7 +1854,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les versions bêta peuvent contenir de nombreux problèmes.\nN'oubliez pas de nous fournir un retour lorsque vous en rencontrez un.\nMerci !"
+            "value" : "Les versions bêta peuvent contenir de nombreux problèmes.\nN'oubliez pas de nous fournir un retour lorsque vous en rencontrez un. Merci !"
           }
         },
         "ko" : {
@@ -1685,6 +1873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beta sürümlerinde birçok sorun olabilir.\nBir sorunla karşılaştığınızda geri bildirim vermeyi unutmayın.\nTeşekkürler!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бета-версії можуть мати багато проблем.\nНе забудьте залишити відгук, якщо ви зіткнетеся з однією з них.\nДякуємо!"
           }
         },
         "vi" : {
@@ -1716,6 +1910,7 @@
     },
     "beta-alert.confirm" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1753,6 +1948,12 @@
             "value" : "Beta Sürümlerini Al"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отримувати бета версії"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1782,6 +1983,7 @@
     },
     "beta-alert.title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1817,6 +2019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beta Sürümlerini Almak İster misiniz?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отримувати бета-версії?"
           }
         },
         "vi" : {
@@ -1880,10 +2088,22 @@
             "value" : "Bouton de souris %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マウスのボタン %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "마우스 %@번 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Museknapp %@"
           }
         },
         "pt-BR" : {
@@ -1902,6 +2122,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fare Düğmesi %@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кнопка %@"
           }
         },
         "vi" : {
@@ -1967,6 +2193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mac Mouse Fix'in tüm potansiyelini ortaya çıkarmak için 5+ düğmeli bir fare edinin!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Використовуйте мишу з 5+ кнопками, щоб розкрити весь потенціал Mac Mouse Fix!"
           }
         },
         "vi" : {
@@ -2035,6 +2267,12 @@
             "value" : "Tamam"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гаразд"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2101,6 +2339,12 @@
             "value" : "Fareniz sadece 3 düğmeye sahip"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша миша має лише 3 кнопки"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2161,10 +2405,22 @@
             "value" : "Bouton du milieu"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホイールボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "가운데 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midtre knapp"
           }
         },
         "pt-BR" : {
@@ -2185,9 +2441,15 @@
             "value" : "Orta Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Середня кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút giữa"
           }
         },
@@ -2244,10 +2506,22 @@
             "value" : "Bouton %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ボタン %@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "%@번 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Knapp %@"
           }
         },
         "pt-BR" : {
@@ -2265,12 +2539,18 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Düğme %@"
+            "value" : "%@. Fare Düğmesi"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кнопка %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút %@"
           }
         },
@@ -2327,10 +2607,22 @@
             "value" : "Bouton principal"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主ボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "주 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primærknapp"
           }
         },
         "pt-BR" : {
@@ -2351,9 +2643,15 @@
             "value" : "Birincil Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основна кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút chính"
           }
         },
@@ -2410,10 +2708,22 @@
             "value" : "Bouton secondaire"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "副ボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "보조 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekundær knapp"
           }
         },
         "pt-BR" : {
@@ -2434,9 +2744,15 @@
             "value" : "İkincil Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Допоміжна кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút phụ"
           }
         },
@@ -2610,6 +2926,27 @@
             }
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ はMac Mouse Fixで制御されるようになりました"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -2624,6 +2961,33 @@
                     "stringUnit" : {
                       "state" : "needs_review",
                       "value" : "%2$@ 은 이제 Mac Mouse Fix에서 캡처합니다."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ er nå fanget opp av Mac Mouse Fix"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ er nå fanget opp av Mac Mouse Fix"
                     }
                   }
                 }
@@ -2660,7 +3024,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -2699,7 +3063,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -2710,13 +3074,52 @@
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%2$@ şu anda Mac Mouse Fix tarafından yakalandı"
+                      "value" : "%2$@ düğmesi şu anda Mac Mouse Fix tarafından yakalandı"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%2$@ şu anda Mac Mouse Fix tarafından yakalandı"
+                      "value" : "%2$@ düğmeleri şu anda Mac Mouse Fix tarafından yakalandı"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ тепер захоплені Mac Mouse Fix"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ тепер захоплені Mac Mouse Fix"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ тепер захоплено Mac Mouse Fix"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ тепер захоплені Mac Mouse Fix"
                     }
                   }
                 }
@@ -2726,7 +3129,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -2736,7 +3139,7 @@
                 "plural" : {
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
+                      "state" : "translated",
                       "value" : "%2$@ đã được ghi nhận bởi Mac Mouse Fix."
                     }
                   }
@@ -2960,6 +3363,27 @@
             }
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "他のアプリからは、これらのボタンが検出されなくなります。"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -2974,6 +3398,33 @@
                     "stringUnit" : {
                       "state" : "needs_review",
                       "value" : "다른 앱에서는 더 이상 캡처하지 못합니다."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "Other apps can't see the button anymore"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "Other apps can't see these buttons anymore"
                     }
                   }
                 }
@@ -3010,7 +3461,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -3049,7 +3500,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -3074,9 +3525,48 @@
             }
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інші програми більше не можуть бачити ці кнопки"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інші програми більше не можуть бачити ці кнопки"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інша програма більше не може бачити ці кнопки"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інші програми більше не можуть бачити ці кнопки"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -3086,8 +3576,8 @@
                 "plural" : {
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : ""
+                      "state" : "translated",
+                      "value" : "Ứng dụng khác không thể xem nút này nữa"
                     }
                   }
                 }
@@ -3193,6 +3683,12 @@
             "value" : "[En savoir plus](%@)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[もっと詳しく](%@)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -3217,9 +3713,15 @@
             "value" : "[Daha Fazla Bilgi Edinin](%@)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Дізнатися більше](%@)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "[Đọc thêm](%@)"
           }
         },
@@ -3393,6 +3895,27 @@
             }
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ はMac Mouse Fixで制御されなくなりました"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -3407,6 +3930,33 @@
                     "stringUnit" : {
                       "state" : "needs_review",
                       "value" : "%2$@ 은 더 이상 Mac Mouse Fix에서 캡처하지 않습니다."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%2$@ is no longer captured by Mac Mouse Fix"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "%2$@ are no longer captured by Mac Mouse Fix"
                     }
                   }
                 }
@@ -3443,7 +3993,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -3482,7 +4032,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -3493,13 +4043,52 @@
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%2$@ Mac Mouse Fix tarafından yakalanması sona erdi"
+                      "value" : "%2$@ düğmesinin Mac Mouse Fix tarafından yakalanması sona erdi"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%2$@ Mac Mouse Fix tarafından yakalanması sona erdi"
+                      "value" : "%2$@ düğmelerinin Mac Mouse Fix tarafından yakalanması sona erdi"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ більше не захоплені Mac Mouse Fix"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ більше не захоплені Mac Mouse Fix"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ більше не захоплено Mac Mouse Fix"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "%2$@ більше не захоплені Mac Mouse Fix"
                     }
                   }
                 }
@@ -3509,7 +4098,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "%#@pluralizable@"
           },
           "substitutions" : {
@@ -3519,8 +4108,8 @@
                 "plural" : {
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%2$@ không còn ghi nhận bởi Mac Mouse Fix."
+                      "state" : "translated",
+                      "value" : "%2$@ không còn được ghi nhận bởi Mac Mouse Fix"
                     }
                   }
                 }
@@ -3743,6 +4332,27 @@
             }
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -3756,6 +4366,33 @@
                   "other" : {
                     "stringUnit" : {
                       "state" : "needs_review",
+                      "value" : ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : ""
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "new",
                       "value" : ""
                     }
                   }
@@ -3850,6 +4487,45 @@
                     "stringUnit" : {
                       "state" : "new",
                       "value" : ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@pluralizable@"
+          },
+          "substitutions" : {
+            "pluralizable" : {
+              "formatSpecifier" : "d",
+              "variations" : {
+                "plural" : {
+                  "few" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інші програми тепер знову можуть бачити ці кнопки"
+                    }
+                  },
+                  "many" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інші програми тепер знову можуть бачити ці кнопки"
+                    }
+                  },
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інші програми тепер знову можуть бачити кнопку"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Інші програми тепер знову можуть бачити ці кнопки"
                     }
                   }
                 }
@@ -3971,6 +4647,12 @@
             "value" : "El **desplazamiento** ahora está capturado por Mac Mouse Fix"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**スクロール**はMac Mouse Fixで制御されるようになりました"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3987,6 +4669,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "**Kaydırma** hareketi şu anda Mac Mouse Fix tarafından yakalandı"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Прокручання** захоплено Mac Mouse Fix"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Cuộn** đã được ghi nhận bởi Mac Mouse Fix"
           }
         },
         "zh-Hans" : {
@@ -4042,6 +4736,12 @@
             "value" : "[En savoir plus](%@)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[もっと詳しく](%@)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -4066,9 +4766,15 @@
             "value" : "[Daha Fazla Bilgi Edinin](%@)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[Дізнатися більше](%@)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "[Đọc thêm](%@)"
           }
         },
@@ -4119,6 +4825,12 @@
             "value" : "El **desplazamiento** ya no está capturado por Mac Mouse Fix"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**スクロール**はMac Mouse Fixで制御されなくなりました"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4135,6 +4847,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "**Kaydırma** haraketinin Mac Mouse Fix tarafından yakalanması sona erdi"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Прокрутка** більше не захоплена Mac Mouse Fix"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Cuộn** không còn được ghi nhận bởi Mac Mouse Fix"
           }
         },
         "zh-Hans" : {
@@ -4181,6 +4905,12 @@
             "value" : "Espaces & Mission Control"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スペースとMission Control"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4203,6 +4933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spaces ve Mission Control"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Простори та Mission Control"
           }
         },
         "vi" : {
@@ -4264,6 +5000,12 @@
             "value" : "Déplacer votre souris :\n - Vers le haut pour afficher Mission Control\n - Vers le bas pour afficher Fenêtres de l'application\n - Vers la gauche ou la droite pour passer d'un espace à un autre\n \nFonctionne comme le balayage à 3 doigts sur un Trackpad Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マウスを動かす：\n-上に動かしてMission Controlを表示\n-下に動かしてアプリケーションウィンドウを表示\n-左右に動かしてスペース間を移動\n\nAppleトラックパッドの「3本指でスワイプ」と同じように動作します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4286,6 +5028,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Farenizi:\n- Mission Control'u göstermek için yukarı doğru\n- Uygulama Pencelerini göstermek için aşağıya doğru\n- Space'ler arasında hareket ettirmek için sağa ve sola doğru hareket ettirin\n\nApple İzleme Dörtgeninde üç parmakla sağa ve sola kaydırma hareketi gibi çalışmaktadır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перемістіть вашу мишу:\n - Вверх щоб показати Mission Control\n - Вниз щоб показати App Exposé\n - Ліворуч або Праворуч щоб переміститись між Просторами\n \nПрацює як проведення 3 пальцями по трекпеду Apple"
           }
         },
         "vi" : {
@@ -4347,6 +5095,12 @@
             "value" : "Défiler & naviguer"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクロールとナビゲート"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4369,6 +5123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kaydırma ve Gezinme"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокрутка та Навігація"
           }
         },
         "vi" : {
@@ -4430,6 +5190,12 @@
             "value" : "Défiler librement en déplaçant votre souris dans n'importe quelle direction\n \nPeut aussi naviguer entre les pages dans Safari, supprimer les messages dans Mail et bien plus en bougeant votre souris à gauche ou à droite\n \nFonctionne comme le balayage avec 2 doigts sur un Trackpad Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マウスを好きな方向に動かして、自由にスクロール\n \nさらに、左右の動きでSafariのページ移動やメールの削除など、さまざまな操作が可能です。\n \nAppleトラックパッドの「2本指でスワイプ」と同じように動作します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4452,6 +5218,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Farenizi herhangi bir yönde hareket ettirerek serbestçe kaydırın\n\nAyrıca farenizi sola ve sağa hareket ettirerek Safari'de sayfalar arasında gezinin, Mail uygulamasında e-postaları silin ve daha fazlasını yapın\n\nApple İzleme Dörtgeninde iki parmakla kaydırmak gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокручуйте вільно, рухаючи мишею в будь-якому напрямку\n \nТакож переміщуйтеся між сторінками в Safari, видаляйте повідомлення в Mail та багато іншого, переміщуючи мишу вліво і вправо\n \nПрацює як проведення двома пальцями на трекпеді Apple"
           }
         },
         "vi" : {
@@ -4503,14 +5275,20 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Application Windows"
+            "state" : "translated",
+            "value" : "Ventanas de la app"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fenêtres de l'application"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリケーションウィンドウ"
           }
         },
         "ko" : {
@@ -4535,6 +5313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uygulama Pencereleri"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Exposé"
           }
         },
         "vi" : {
@@ -4596,6 +5380,12 @@
             "value" : "Afficher toutes les fenêtres de l'application active"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用中のアプリのすべてのウィンドウを表示"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4618,6 +5408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Etkin uygulamanın tüm pencerelerini göster"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати всі вікна активної програми"
           }
         },
         "vi" : {
@@ -4679,6 +5475,12 @@
             "value" : "Touches exclusives "
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " 専用キー"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4701,6 +5503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : " Özel Tuşları"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Ексклюзивні клавіші"
           }
         },
         "vi" : {
@@ -4762,6 +5570,12 @@
             "value" : "Choisir les touches uniquement disponibles sur les claviers Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple純正キーボードにのみ搭載されているキーを選択できます"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4784,6 +5598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yalnızca Apple klavyelerinde bulunan tuşları seçin"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть клавіші, які доступні лише на клавіатурах Apple"
           }
         },
         "vi" : {
@@ -4845,6 +5665,12 @@
             "value" : "Fonctionne comme en appuyant sur « %@ » sur un clavier Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple純正キーボードで'%@'キーを押したときと同じように動作します"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4867,6 +5693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bir Apple klavyesinde '%@' tuşuna basmak gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Працює як натискання '%@' на клавіатурі Apple"
           }
         },
         "vi" : {
@@ -4928,6 +5760,12 @@
             "value" : "Vers l'arrière"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "戻る"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4950,6 +5788,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geri"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
           }
         },
         "vi" : {
@@ -5011,6 +5855,12 @@
             "value" : "Revenir en arrière d'une page dans Safari et d'autres apps"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safariやその他のアプリで前のページに戻る"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5033,6 +5883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Safari ve diğer uygulamalarda bir sayfa geri git"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перейти назад на одну сторінку в Safari та інших програмах"
           }
         },
         "vi" : {
@@ -5094,6 +5950,12 @@
             "value" : "Clic du milieu"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ミドルクリック"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5118,16 +5980,22 @@
             "value" : "Orta Tık"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Середнє клацання"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kích chuột giữa"
+            "value" : "Bấm chuột giữa"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "按中键"
+            "state" : "translated",
+            "value" : "点击中键"
           }
         },
         "zh-Hant" : {
@@ -5177,6 +6045,12 @@
             "value" : "Ouvrir les liens dans un nouvel onglet, coller du texte dans le Terminal et bien plus.\n \nFonctionne comme le clic sur le Bouton central de la souris (aussi appelé bouton de la molette de défilement ou Bouton de souris 3) sur une souris standard."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リンクを新しいタブで開く、ターミナルにテキストを貼り付けるなど、さまざまな操作が可能です。\n \n一般的なマウスの中央ボタン（ホイールボタンやマウスボタン3とも呼ばれます）をクリックしたときと同じように動作します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -5201,10 +6075,16 @@
             "value" : "Bağlantıları yeni sekmede açın, Terminal'e metin yapıştırın ve daha fazlasını yapın.\n \nOrta Fare Düğmesi (Kaydırma Tekerleği Düğmesi veya Fare Düğmesi 3 olarak da adlandırılır)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкривайте посилання в нових вкладках, уставляйте текст у Термінал тощо.\n \nПрацює як клацання середньою кнопкою миші (також називається коліщатком або кнопкою 3) на звичайній миші."
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Mở liên kết trong thẻ mới, dán chữ vào Terminal, và nhiều hơn.\n \nHoạt động như kích vào nút Nút giữa (còn gọi là Con lăn hoặc Nút số 3) trên chuột."
+            "state" : "translated",
+            "value" : "Mở liên kết trong thẻ mới, dán chữ vào Terminal, và nhiều hơn.\n \nHoạt động như kích vào nút Nút giữa (còn gọi là con lăn hoặc nút số 3) trên chuột thông thường."
           }
         },
         "zh-Hans" : {
@@ -5260,6 +6140,12 @@
             "value" : "Clic principal"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主ボタンのクリック"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -5278,16 +6164,22 @@
             "value" : "Birincil Tıklama (Sağ Tık)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основне клацання"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kích nút chính"
+            "value" : "Bấm nút chính"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "主键"
+            "state" : "translated",
+            "value" : "点击主键"
           }
         }
       }
@@ -5325,6 +6217,12 @@
             "value" : "Fonctionne comme le clic sur le Bouton principal de la souris (aussi appelé bouton de souris gauche ou Bouton de souris 1) sur une souris standard."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般的なマウスの主ボタン（左ボタンやマウスボタン1とも呼ばれます）をクリックしたときと同じように動作します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -5349,10 +6247,16 @@
             "value" : "Birincil Fare Düğmesi (Sol Fare Düğmesi veya Birincil Fare Düğmesi olarak da adlandırılır)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Працює як клацання основної кнопки миші (також називається лівою кнопкою або кнопкою 1) звичайній миші."
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Hoạt động như kích vào nút Nút chính (còn gọi là Nút chuột trái hoặc Nút số 1) trên chuột."
+            "state" : "translated",
+            "value" : "Hoạt động như bấm vào nút Nút chính (còn gọi là nút chuột trái hoặc nút số 1) trên chuột thông thường."
           }
         },
         "zh-Hans" : {
@@ -5408,6 +6312,12 @@
             "value" : "Clic secondaire"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "副ボタンのクリック"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -5426,16 +6336,22 @@
             "value" : "İkincil Tıklama (Sol Tık)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Допоміжне клацання"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kích nút phụ"
+            "value" : "Bấm nút phụ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "辅键"
+            "state" : "translated",
+            "value" : "点击辅键"
           }
         }
       }
@@ -5473,6 +6389,12 @@
             "value" : "Fonctionne comme le clic sur le Bouton secondaire de la souris (aussi appelé bouton de souris droit ou Bouton de souris 2) sur une souris standard."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般的なマウスの副ボタン（右ボタンやマウスボタン2とも呼ばれます）をクリックしたときと同じように動作します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -5497,10 +6419,16 @@
             "value" : "İkincil Fare Düğmesi (Sağ Fare Düğmesi veya Fare Düğmesi 2 olarak da adlandırılır)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Працює як клацання допоміжної кнопки миші (також називається правою кнопкою або кнопкою 2) на звичайній миші."
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Hoạt động như kích vào nút Nút phụ (còn gọi là Nút chuột phải hoặc Nút số 2) trên chuột."
+            "state" : "translated",
+            "value" : "Hoạt động như bấm vào nút nút phụ (còn gọi là nút chuột phải hoặc nút số 2) trên chuột thông thường."
           }
         },
         "zh-Hans" : {
@@ -5556,6 +6484,12 @@
             "value" : "Afficher le bureau"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デスクトップを表示"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5578,6 +6512,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Masaüstünü Göster"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати Робочий Стіл"
           }
         },
         "vi" : {
@@ -5639,6 +6579,12 @@
             "value" : "Afficher le bureau"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デスクトップを表示する"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5661,6 +6607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Masaüstünü Göster"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати робочий стіл"
           }
         },
         "vi" : {
@@ -5722,6 +6674,12 @@
             "value" : "Vers l'avant"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "進む"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5744,6 +6702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "İleri"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Уперед"
           }
         },
         "vi" : {
@@ -5805,6 +6769,12 @@
             "value" : "Avancer d'une page sur Safari et d'autres apps"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safarやその他のアプリで1ページ進む"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5827,6 +6797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Safari ve diğer uygulamalarda bir sayfa ileri git"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перейти вперед на одну сторінку в Safari та інших програмах"
           }
         },
         "vi" : {
@@ -5888,6 +6864,12 @@
             "value" : "Launchpad"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launchpad"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5907,6 +6889,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launchpad"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Launchpad"
@@ -5971,6 +6959,12 @@
             "value" : "Ouvrir le Launchpad"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launchpadを開く"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5993,6 +6987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Launchpad'i aç"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити Launchpad"
           }
         },
         "vi" : {
@@ -6045,13 +7045,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Moverse un Espacio a la Izquierda"
+            "value" : "Mover a la Izquierda un Espacio"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "Déplacer vers le bureau de gauche"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左の操作スペースに移動"
           }
         },
         "ko" : {
@@ -6076,6 +7082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Soldaki Space'e git"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пересунути на простір ліворуч"
           }
         },
         "vi" : {
@@ -6127,14 +7139,20 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Moverse un Espacio a la Izquierda"
+            "state" : "translated",
+            "value" : "Moverse un Espacio a la izquierda"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "Se déplacer d'un espace vers la gauche"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左の操作スペースに移動する"
           }
         },
         "ko" : {
@@ -6159,6 +7177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Soldaki Space'e git"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перейти на один простір лівіше рухаючи мишею"
           }
         },
         "vi" : {
@@ -6210,14 +7234,20 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Mira hacia arriba y mira rápido"
+            "state" : "translated",
+            "value" : "Mira Hacia Arriba y Vista Rápida"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rechercher & Coup d'œil"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「調べる」とクイックルック"
           }
         },
         "ko" : {
@@ -6242,6 +7272,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sözlükte Ara ve Hızlı Bak"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пошук і Швидкий перегляд"
           }
         },
         "vi" : {
@@ -6293,14 +7329,20 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Buscar palabras en el Diccionario, Vista Rápida de archivos en el Finder, y más.\n\nFunciona como un clic forzado en un Apple Trackpad."
+            "state" : "translated",
+            "value" : "Buscar palabras en el Diccionario, Vista Rápida de archivos en el Finder, y más.\n\nFunciona como un clic Forzado en un Apple Trackpad."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rechercher des mots dans le Dictionnaire, Coup d'œil sur les fichiers dans le Finder et bien plus.\n \nFonctionne comme le clic forcé sur un Trackpad Apple."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "辞書で単語を調べたり、Finderでファイルをクイックルックしたり、他にも様々なことができます。\n\nAppleトラックパッドの強めのクリックと同じように動作します。"
           }
         },
         "ko" : {
@@ -6327,6 +7369,12 @@
             "value" : "Sözlükte kelimeleri arayın, Finder'da dosyalara Hızlı Bakın ve daha fazlasını yapın.\n \nApple İzleme Dörtgeninde Sert Tıklama gibi çalışır."
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шукайте слова у словнику, файли швидкого пошуку у Finder тощо. \n\nПрацює як Сильне клацання на трекпеді Apple."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6335,8 +7383,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "查询与快速查看"
+            "state" : "translated",
+            "value" : "在词典中查询单词，在方达中快速预览文件等\n\n类似于妙控板的用力点击"
           }
         },
         "zh-Hant" : {
@@ -6386,6 +7434,12 @@
             "value" : "Mission Control"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mission Control"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6405,6 +7459,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mission Control"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mission Control"
@@ -6469,6 +7529,12 @@
             "value" : "Afficher Mission Control"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mission Controlを表示する"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6491,6 +7557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mission Control'ü göster"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показати Mission Control"
           }
         },
         "vi" : {
@@ -6552,6 +7624,12 @@
             "value" : "Raccourci clavier..."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーボードショートカット…"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6576,6 +7654,12 @@
             "value" : "Klavye Kısayolu..."
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавіатурні скорочення..."
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6584,8 +7668,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "键盘快捷键"
+            "state" : "translated",
+            "value" : "键盘快捷键..."
           }
         },
         "zh-Hant" : {
@@ -6635,6 +7719,12 @@
             "value" : "Tapez un raccourci clavier, puis utilisez-le depuis votre souris"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーボードショートカットを割り当てて、マウスでそれを実行します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6657,6 +7747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bir klavye kısayolu yazın, ardından farenizden kullanın"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введіть комбінацію клавіш, а потім використовуйте її з миші"
           }
         },
         "vi" : {
@@ -6708,14 +7804,20 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Moverse un espacio a la derecha"
+            "state" : "translated",
+            "value" : "Mover a la Derecha un Espacio"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "Déplacer vers le bureau de droite"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右の操作スペースに移動"
           }
         },
         "ko" : {
@@ -6740,6 +7842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sağdaki Space'e Git"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пересунути на простір праворуч "
           }
         },
         "vi" : {
@@ -6791,14 +7899,20 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Moverse un espacio a la derecha"
+            "state" : "translated",
+            "value" : "Mover un Espacio a la derecha"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "Se déplacer d'un espace vers la droite"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "右の操作スペースに移動する"
           }
         },
         "ko" : {
@@ -6823,6 +7937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sağdaki Space'e Git"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перейти на один простір праіше рухаючи мишею"
           }
         },
         "vi" : {
@@ -6884,6 +8004,12 @@
             "value" : "Fonctionne comme en appuyant sur « %@ » sur votre clavier"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーボードで'%@'を押すのと全く同じように動作します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6906,6 +8032,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Klavyenizde '%@' tuşuna basmak gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Працює як клацання '%@' на клавіатурі"
           }
         },
         "vi" : {
@@ -6967,6 +8099,12 @@
             "value" : "Zoom intelligent"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマートズーム"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6989,6 +8127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Akıllı Yakınlaştırma"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Динамічне масштабування"
           }
         },
         "vi" : {
@@ -7050,6 +8194,12 @@
             "value" : "Zoom en avant ou en arrière dans Safari et d'autres apps.\n \nFonctionne comme un Toucher deux fois sur un Trackpad Apple."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safariやその他の対応アプリで拡大・縮小します。Appleトラックパッドの2本指ダブルタップ操作を再現します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7072,6 +8222,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Safari'de ve diğer uygulamalarda yakınlaştırma veya uzaklaştırma yapın.\n\nApple İzleme Dörtgenindede iki parmakla çift dokunma gibi çalışır."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Збільшуйте або зменшуйте масштаб у Safari та інших програмах. Працює як подвійне клацання двома пальцями на трекпеді Apple."
           }
         },
         "vi" : {
@@ -7133,6 +8289,12 @@
             "value" : "Si vous rencontrez des **problèmes pour activer** l'app, cliquez&nbsp;[ici](%@)."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを有効にする際にお困りですか？[こちら](%@)をクリックしてください"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7149,6 +8311,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uygulamayı **etkinleştirme konusunda sorun yaşıyorsanız**, [buraya](%@) tıklayın."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Якщо у вас виникли **проблеми з увімкненням** програми, клацніть [тут](%@)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu bạn có **vấn đề bật** ứng dụng, bấm vào [đây](%@)"
           }
         },
         "zh-Hans" : {
@@ -7192,6 +8366,12 @@
             "value" : "Le **bouton principal de la souris** ne peut pas être utilisé\nVeuillez essayer un autre bouton"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メインのマウスボタンは割り当てを変更できません。別のボタンを試してください。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7214,6 +8394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "**Birincil Fare Düğmesi** kullanılamaz\nLütfen başka bir düğme deneyin"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Основну кнопку миші** неможливо використовувати\nБудь ласка, спробуйте іншу кнопку"
           }
         },
         "vi" : {
@@ -7275,6 +8461,12 @@
             "value" : "Le **bouton secondaire de la souris** ne peut pas être utilisé\nVeuillez essayer un autre bouton"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "副ボタンは割り当てを変更できません。別のボタンを試してください。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7297,6 +8489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "**İkincil Fare Düğmesi** kullanılamaz\nLütfen başka bir düğme deneyin"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Допоміжна кнопка миші** не може бути використана\nБудь ласка, спробуйте іншу кнопку"
           }
         },
         "vi" : {
@@ -7358,6 +8556,12 @@
             "value" : "Mac Mouse Fix est actuellement gratuit dans votre pays (%@)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac Mouse Fixは現在、お客様の地域(%@)で無料です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7380,6 +8584,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mac Mouse Fix şu anda ülkenizde (%@) ücretsizdir"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac Mouse Fix наразі безкоштовний у вашій країні (%@)"
           }
         },
         "vi" : {
@@ -7441,6 +8651,12 @@
             "value" : "Mac Mouse Fix a été **désactivé** dans les Réglages Système\n\nPour activer Mac Mouse Fix :\n\n1. Se rendre dans les [paramètres Ouverture](%@)\n2. Activer « Mac Mouse Fix.app »"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システム設定で Mac Mouse Fixが**無効**になっています\n\nMac Mouse Fix を有効にするには：\n\n1.[ログイン項目の設定](%@)を開く\n2.'Mac Mouse Fix'をオンにする"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -7465,9 +8681,15 @@
             "value" : "Mac Mouse Fix, Sistem Ayarları'nda  **devre dışı**.\n\nMac Mouse Fix'i devreye almak için:\n\n1. [Oturum Açma'da Açılan Uygulama Ayarları](%@) alanından\n2. Mac Mouse Fix.app'i devreye alın."
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac Mouse Fix було **вимкнено** у Системних параметрах\n\nЩоб увімкнути Mac Mouse Fix:\n\n1. Перейдіть до [Параметрів об’єктів входу](%@)\n2. Увімкніть 'Mac Mouse Fix.app'"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Mac Mouse Fix đã **tắt** trong System Settings\n\nĐể mở lại Mac Mouse Fix:\n\n1. Đi đến [Login Items Settings](%@)\n2. Bật 'Mac Mouse Fix.app'"
           }
         },
@@ -7524,6 +8746,12 @@
             "value" : "Mac Mouse Fix ne peut pas être activé car une **autre version** de Mac Mouse Fix est présente sur votre ordinateur\n\nPour activer Mac Mouse Fix :\n\n1. Supprimer l'[autre version](%@)\n2. Vider la corbeille\n3. Redémarrer votre Mac\n4. Réessayer !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お使いのMacに**別のバージョン**のMac Mouse Fixがあるため、有効にできません。\n\nMac Mouse Fixを有効にする手順：\n\n1.[別のバージョン](%@)を削除する\n2.ゴミ箱を空にする\n3.Macを再起動する\n4.もう一度お試しください！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -7548,10 +8776,16 @@
             "value" : "Mac Mouse Fix etkinleştirilemiyor çünkü bilgisayarınızda Mac Mouse Fix'in **başka bir sürümü** mevcut\n\nMac Mouse Fix'i aktifleştirmek için:\n\n1. [Diğer sürümü](%@)silin\n2. Çöp Kutusunu boşaltın\n3. Mac'inizi yeniden başlatın\n4. Tekrar deneyin!"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mac Mouse Fix не можна ввімкнути, оскільки на вашому комп'ютері є **інша версія** Mac Mouse Fix.\n\nЩоб увімкнути Mac Mouse Fix: \n\n1. Видаліть [іншу версію](%@) \n2. Очистіть смітник \n3. Перезавантажте свій Mac \n4. Спробуйте ще раз!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Mac Mouse Fix bật lên thất bại vì có **một phiên bản khác** của Mac Mouse Fix đang chạy\n\nĐể bật Mac Mouse Fix:\n\n1. Xóa [phiên bản khác](%@)\n2. Làm trống thùng rác\n3. Khởi động lại máy Mac\n4. Thử lại!"
+            "state" : "translated",
+            "value" : "Mac Mouse Fix không thể bật được vì có **một phiên bản khác** của Mac Mouse Fix đang chạy\n\nĐể bật Mac Mouse Fix:\n\n1. Xóa [phiên bản khác](%@)\n2. Làm trống thùng rác\n3. Khởi động lại máy Mac\n4. Thử lại!"
           }
         },
         "zh-Hans" : {
@@ -7607,6 +8841,12 @@
             "value" : "L'activation a échoué"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有効化できませんでした"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7629,6 +8869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisans aktivasyonu başarısız oldu"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ввімкнення Не Вдалося"
           }
         },
         "vi" : {
@@ -7690,6 +8936,12 @@
             "value" : ", "
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "、"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7709,6 +8961,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ", "
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : ", "
@@ -7773,6 +9031,12 @@
             "value" : "%1$@ et %2$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@と%2$@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -7797,9 +9061,15 @@
             "value" : "%1$@ ve %2$@"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ і %2$@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "%1$@ và %2$@"
           }
         },
@@ -7856,6 +9126,12 @@
             "value" : "Activer la licence"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライセンスを有効にする…"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7878,6 +9154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisansı Aktifleştir"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активувати ліцензію"
           }
         },
         "vi" : {
@@ -7939,6 +9221,12 @@
             "value" : "Désactiver la licence"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライセンスを解除"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7963,10 +9251,16 @@
             "value" : "Lisansı Devre Dışı Bırak"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Деактивувати ліцензію"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bất hoạt bản quyền"
+            "value" : "Xoá bản quyền"
           }
         },
         "zh-Hans" : {
@@ -8022,6 +9316,12 @@
             "value" : "Votre licence a été **activée** ! 🎉"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライセンスが**有効化**されました！ 🎉"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8044,6 +9344,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisansınız **aktifleştirildi**! 🎉"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша ліцензія була **активована**! 🎉"
           }
         },
         "vi" : {
@@ -8105,6 +9411,12 @@
             "value" : "Cette licence a été activée **%2$d** fois. Le maximum est de **%3$d**.\n\nÀ cause de cela, la licence a été invalidée. Ceci permet d'éviter le piratage. Si vous avez d'autres raisons d'activer la licence autant de fois, veuillez m'excuser.\n\nIl suffit de [me contacter](%1$@) et je vous fournirai une nouvelle licence ! Merci de votre compréhension."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このライセンスは**%2$d回**有効化されています。上限は**%3$d回**です。\n\nそのため、不正利用防止の観点からこのライセンスは無効化されました。もし、特別な事情でこれほど多くの有効化が必要であった場合は、ご不便をおかけして申し訳ありません。\n\n[こちらまでご連絡](%1$@)いただければ、新しいライセンスを発行いたします。ご理解のほど、よろしくお願いいたします。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8126,13 +9438,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu lisans halihazırda **%2$d** kez aktifleştirilmiştir. Bir lisans için maksimum aktifleştirme sayısı **%3$d** kadardır\n\nKorsan yazılım kullanımını engellemek için bu lisans artık geçersizdir. Lisansı bu kadar çok kez etkinleştirmek için başka nedenleriniz varsa bu sorun için üzgünüz.\n\n[Buraya tıklayarak](%1$@) bana bir e-posta gönderin, size yeni bir lisans oluşturacağım! Anlayışınız için teşekkürler."
+            "value" : "Bu lisans halihazırda **%2$d** kez aktifleştirilmiştir. Bir lisans için maksimum aktifleştirme sayısı **%3$d** kadardır\n\nKorsan yazılım kullanımını engellemek için bu lisans artık geçersizdir. Lisansı bu kadar çok kez etkinleştirmek için başka nedenleriniz varsa bu sorun için üzgünüz.\n\n[Buraya tıklayarak](%1$@) bana bir e-posta gönderin, size yeni bir lisans oluşturacağım! Anlayışınız için teşekkürler.\";"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цю ліцензію активовано понад ліміт: **%2$d** Максимум – **%3$d**.\n\nЧерез це ліцензія була визнана недійсною. Це для запобігання піратству. Якщо у вас є інші причини активувати ліцензію так багато разів, будь ласка, вибачте за незручності.\n\nПросто [напишіть мені](%1$@), і я надам вам нову ліцензію! Дякую за розуміння."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Bản quyền này đã được kích hoạt **%2$d** lượt. Số lượt tối đa **%3$d**.\n\nVì vậy, bản quyền này không hợp lệ để tránh bị lợi dụng. Nếu bạn có lý do về việc kích hoạt quá nhiều lượt, hãy [liên hệ](%1$@), tôi sẽ cung cấp một khóa kích hoạt mới.\nXin lỗi về sự bất tiện này, mong bạn thông cảm."
+            "state" : "translated",
+            "value" : "Bản quyền này đã được kích hoạt **%2$d** lần. Số lần tối đa là **%3$d**.\n\nDo đó, bản quyền này không hợp lệ để tránh bị lợi dụng. Nếu bạn có lý do về việc kích hoạt quá nhiều lần, xin lỗi về sự bất tiện này\nHãy [liên hệ](%1$@), tôi sẽ cung cấp một khóa kích hoạt mới. Cám ơn bạn vì đã hiểu cho chúng tôi. "
           }
         },
         "zh-Hans" : {
@@ -8188,6 +9506,12 @@
             "value" : "Cette licence est **déjà activée** !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このキーはすでに**ライセンス認証**されています"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8209,13 +9533,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu lisans **zaten aktif**!"
+            "value" : "Uygulamanız **zaten** bu lisans ile **aktif**"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша програма **вже ліцензована** з цим ключем"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Bản quyền này đã được **kích hoạt từ trước**!"
+            "state" : "translated",
+            "value" : "Ứng dụng đã được **kích hoạt** với khoá này"
           }
         },
         "zh-Hans" : {
@@ -8271,6 +9601,12 @@
             "value" : "Votre licence a été **désactivée**"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライセンスが**無効化**されました"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8295,10 +9631,16 @@
             "value" : "Lisansınız **devre dışı bırakıldı**"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша ліцензія була **деактивована**"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bản quyền của bạn đã **bất hoạt** thành công"
+            "value" : "Bản quyền của bạn đã được **xoá** thành công"
           }
         },
         "zh-Hans" : {
@@ -8354,6 +9696,12 @@
             "value" : "Cette licence **n'a pas pu être activée** mais Mac Mouse Fix est actuellement **gratuit dans votre pays** !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このライセンスは有効化できませんでしたが、現在お住まいの国では Mac Mouse Fix を無料でご利用いただけます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8378,9 +9726,15 @@
             "value" : "Bu lisans **aktifleştirilemedi** ancak Mac Mouse Fix şu anda **ülkenizde ücretsiz**!"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Цю ліцензію **не можна активувати**, але Mac Mouse Fix наразі **безкоштовно у вашій країні**."
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Bản quyền này **không thể được kích hoạt** nhưng Mac Mouse Fix đang **miễn phí tại quốc gia của bạn**!"
           }
         },
@@ -8437,6 +9791,12 @@
             "value" : "**Une erreur avec le serveur de licences s'est produite**\n\nElle dit :\n\n%@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**ライセンスサーバー**でエラーが発生しました\n\nエラー内容：\n\n%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8461,9 +9821,15 @@
             "value" : "**Lisans sunucusunda bir hata oluştu**\n\nGelen hata mesajı:\n\n%@"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сталася **помилка з сервером ліцензування** \n\nВін каже: \n\n%@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "**Có lỗi xảy ra với máy chủ quản lý bản quyền**\n\nNó phản hồi rằng:\n\n%@"
           }
         },
@@ -8520,6 +9886,12 @@
             "value" : "**Il n'y a pas de connexion à Internet**\n\nRéessayer d'activer votre licence quand votre ordinateur sera à nouveau en ligne."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**インターネット接続に問題**があります\n\nお使いのMacがインターネットに接続されていること、およびファイアウォールによってMac Mouse Fixの通信が遮断されていないことを確認してください。\n\n解決しない場合は、[こちら](%@)からお問い合わせください。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8541,13 +9913,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "**İnternet bağlantısı yok**\n\nBilgisayarınız çevrimiçi olduğunda lisansınızı tekrar aktifleştirmeyi deneyin.\n\nEğer bu problemi çözmez ise, bana [buradan](%@) ulaşın."
+            "value" : "**İnternet bağlantısı yok**\n\nBilgisayarınızın çevrimiçi olduğuna ve herhangi bir güvenlik duvarının Mac Mouse Fix'in internete bağlanmasına engel olmadığından emin olun.\n\nEğer bu sorununuzu çözmez ise, bana [buradan](%@) ulaşın."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виникла **проблема з підключенням до інтернету**\n\nПереконайтеся, що ваш комп’ютер підключений до мережі та що брандмауери не блокують доступ Mac Mouse Fix до інтернету.\n\nЯкщо це не вирішить проблему, зв’яжіться зі мною [тут](%@)."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "**Hiện không có kết nối internet**\n\nThử kích hoạt bản quyền của bạn khi kết nối khả dụng."
+            "state" : "translated",
+            "value" : "Có **lỗi kết nối internet**\n\nHãy chắc chắn bạn đang kết nối internet và không có tường lửa nào chặn kết nối của Mac Mouse Fix.\n\nNếu bạn không thể xử lý lỗi này, liên hệ cho tôi [tại đây](%@)."
           }
         },
         "zh-Hans" : {
@@ -8596,6 +9974,18 @@
             "value" : "Hay un **problema con el servidor de licencias**\n\nPor favor, inténtalo de nuevo más tarde.\n\nSi el problema persiste, contáctame [aquí](%@)."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il y a un problème avec le serveur de licence.\nVeuillez réessayer ultérieurement.\n\nSi le problème persiste, contactez-moi (%@)."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**ライセンスサーバー**に問題が発生しています\n\nしばらくしてからもう一度お試しください。\n\n問題が解決しない場合は、[こちら](%@)からお問い合わせください。"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8612,6 +10002,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "**Lisanslama sunucusunda bir hata oluştu.**\n\nLütfen daha sonra tekrar deneyin.\n\nEğer bu problem devam ederse bana [buradan](%@) bir e-posta gönderin."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виникла **проблема з сервером ліцензування**\n\nБудь ласка, спробуйте пізніше.\n\nЯкщо проблема не зникне, зв’яжіться зі мною [тут](%@)."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Có lỗi xảy ra với máy chủ quản lý bản quyền**\n\nHãy thử lại sau.\n\nNếu lỗi xảy ra liên tục, liên hệ cho tôi [tại đây](%@).\n"
           }
         },
         "zh-Hans" : {
@@ -8655,6 +10057,12 @@
             "value" : "**Une erreur inconnue s'est produite :**\n\n%@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**不明なエラー**が発生しました：\n\n%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8679,9 +10087,15 @@
             "value" : "**Bilinmeyen bir hata oluştu:**\n\n%@"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сталася **невідома помилка**:\n\n%@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "**Một lỗi không rõ đã xảy ra:**\n\n%@"
           }
         },
@@ -8738,6 +10152,12 @@
             "value" : "« **%@** » n'est pas une clé de licence connue\n\nVeuillez essayer une clé différente"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'**%@**'は有効なライセンスキーではありません\n\nMac Mouse Fixのライセンスキーを、受け取った通りに正確に入力してください。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8759,13 +10179,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "*'%@'** geçerli bir lisans anahtarı değildir\n\nLütfen başka bir anahtarı deneyin veya elinize geçen anahtarı olduğu gibi yazın."
+            "value" : "*'%@'** geçerli bir lisans anahtarı değildir\n\nMac Mouse Fix anahtarınızı aldığınız gibi yazdığınızdan emin olun."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'**%@**' не є дійсним ключем\n\nПереконайтеся, що ви ввели ключ для Mac Mouse Fix саме так, як ви його отримали."
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Không thể xác định '**%@**' là một khóa kích hoạt\n\nVui lòng thử một khóa khác"
+            "state" : "translated",
+            "value" : "'**%@**' không phải là khoá kích hoạt đúng.\n\nHãy chắc chắn bạn dùng đúng mã Mac Mouse Fix mà bạn đã nhận."
           }
         },
         "zh-Hans" : {
@@ -8821,6 +10247,12 @@
             "value" : "L'activation de votre licence a échoué pour des *raisons inconnues**\n\nVeuillez **signaler le bug** [ici](%@)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**原因不明のエラー**により、ライセンスの有効化に失敗しました\n\n[こちら](%@)から**バグ報告**をお願いいたします"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8845,10 +10277,16 @@
             "value" : "**Bilinmeyen sebepler nedeniyle** lisans aktivasyonunuz başarısız oldu\n\nLütfen [buradan](%@) bir **hata raporu** oluşturun"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активація вашої ліцензії не вдалася з **невідомих причин**\n\nБудь ласка, надішліть **Звіт про помилку** [тут](%@)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích hoạt thất bạn do một **lỗi không xác định**\n\nVui lòng gửi một **Báo cáo lỗi** [tại đây](%@)"
+            "state" : "translated",
+            "value" : "Kích hoạt thất bạn do **lỗi không xác định**\n\nVui lòng gửi một **Báo cáo lỗi** [tại đây](%@)"
           }
         },
         "zh-Hans" : {
@@ -8904,6 +10342,12 @@
             "value" : "Définir la vitesse sous\n[%1$@ > Souris > Vitesse de déplacement](%2$@)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[%1$@ > マウス > スクロール速度](%2$@) から設定できます"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -8928,9 +10372,15 @@
             "value" : "Fare hızını Ayarlarda bu alanda ayarlayın\n[%1$@ > Fare > Kaydırma Hızı](%2$@)"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Встановіть швидкість у\n[%1$@ > Миша > Швидкість прокрутки](%2$@)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Thiết lập tốc độ tại \n[%1$@ > Chuột > Tốc độ di chuyển](%2$@)"
           }
         },
@@ -8987,6 +10437,12 @@
             "value" : "Retour"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "戻る"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9009,6 +10465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geri"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
           }
         },
         "vi" : {
@@ -9066,8 +10528,14 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Je lis et j'apprécie tous vos e-mails, même si je ne peux pas répondre à tout le monde"
+            "state" : "translated",
+            "value" : "Je lis et j'apprécie tous vos e-mails, bien que je ne puisse pas répondre à tout le monde"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "個別にお返事することは稀ですが、お送りいただいたメッセージはすべて拝見しております。皆様からのフィードバックはMac Mouse Fixの改善に非常に役立っております。貴重なご意見をありがとうございます！"
           }
         },
         "ko" : {
@@ -9091,13 +10559,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bilginiz olsun, bütün e-postalara geri dönemesem de hepsini okuyorum ve takdir ediyorum"
+            "value" : "ütün e-postalara geri dönemesem de hepsini okuyorum ve takdir ediyorum"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я відповідаю рідко, але читаю всі повідомлення, і ваші відгуки допомагають мені вдосконалювати Mac Mouse Fix. Дякую за ваш відгук!"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Tôi sẽ đọc và trân trọng tất cả các email gửi về, mặc dù có thể tôi sẽ không phản hồi tất cả"
+            "state" : "translated",
+            "value" : "Tôi có thể hiếm khi phản hồi, nhưng Tôi đọc tất cả tin nhắn và thông tin phản hồi giúp tôi cải thiện Mac Mouse Fix. \nCảm ơn thông tin phản hồi của bạn! "
           }
         },
         "zh-Hans" : {
@@ -9153,6 +10627,12 @@
             "value" : "Écrire un e-mail"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規メールを作成"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9177,10 +10657,16 @@
             "value" : "E-Posta Yaz"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Написати е-лист"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Viết Email"
+            "value" : "Gửi cho tôi"
           }
         },
         "zh-Hans" : {
@@ -9236,6 +10722,12 @@
             "value" : "Écrire un e-mail ?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メールを作成しますか？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9258,6 +10750,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "E-Posta Yaz?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Написати е-лист?"
           }
         },
         "vi" : {
@@ -9319,6 +10817,12 @@
             "value" : "Commande (⌘)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Command (⌘)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -9338,6 +10842,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Command (⌘)"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Command (⌘)"
@@ -9402,6 +10912,12 @@
             "value" : "Contrôle (^)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control (^)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -9421,6 +10937,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control (^)"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Control (^)"
@@ -9485,6 +11007,12 @@
             "value" : "Option (⌥)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Option (⌥)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -9504,6 +11032,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Option (⌥)"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Option (⌥)"
@@ -9568,6 +11102,12 @@
             "value" : "Maj (⇧)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift (⇧)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -9587,6 +11127,12 @@
           }
         },
         "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shift (⇧)"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Shift (⇧)"
@@ -9652,10 +11198,22 @@
             "value" : "Le contenu suit le mouvement du doigt"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コンテンツが指の動きに追従します"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "손가락이 움직임이는 방향에 따라 콘텐츠가 이동됩니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Innhold sporer fingerbevegelser"
           }
         },
         "pt-BR" : {
@@ -9674,6 +11232,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "İçerik parmak hareketini izler"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вміст слідує за рухом пальців"
           }
         },
         "vi" : {
@@ -9735,10 +11299,22 @@
             "value" : "Défiler précisement, même sans un raccourci clavier,\nen bougeant la molette de défilement *doucement*"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクロールホイールを*ゆっくり*回すことで、修飾キーを使わずに精密なスクロールが可能です。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "스크롤을 *천천히* 움직이는 경우, 보조 키를 사용하지 않더라도\n정밀하게 스크롤합니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rull presist, selv uten tastaturmodifikator, ved å bevege rullehjulet *sakte*"
           }
         },
         "pt-BR" : {
@@ -9759,10 +11335,16 @@
             "value" : "Kaydırma tekerleğini *yavaşça* hareket ettirerek, klavye değiştiricisi tuşu olmadan bile hassas bir şekilde&nbsp;kaydırın"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокручуйте точно навіть без модифікатора, повільно повертаючи *коліщатко*"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Cuộn chính xác, dù không kèm theo một phím bổ sung,\nbằng cách di chuyện con lăn *thật chậm*"
+            "state" : "translated",
+            "value" : "Cuộn chính xác, dù không kèm theo một phím bổ sung, bằng cách di chuyện con lăn *thật chậm*"
           }
         },
         "zh-Hans" : {
@@ -9818,6 +11400,12 @@
             "value" : "Annuler"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9840,6 +11428,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "İptal"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скасувати"
           }
         },
         "vi" : {
@@ -9901,6 +11495,12 @@
             "value" : "Restaurer"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "戻す"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9923,6 +11523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Geri Yükle"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відновити"
           }
         },
         "vi" : {
@@ -9984,6 +11590,12 @@
             "value" : "Votre souris **%1$@** dit qu'elle a **%2$d** boutons"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お使いのマウス（**%1$@**）には、**%2$d*個**のボタンがあると認識されています"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -10008,9 +11620,15 @@
             "value" : "**%1$@** fareniz **%2$d** düğmeye sahip olduğunu söylüyor"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша миша (**%1$@**) має **%2$d** кнопок"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Chuột **%1$@** của bạn có **%2$d** nút"
           }
         },
@@ -10067,6 +11685,12 @@
             "value" : "Une souris avec 3 boutons"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3ボタンマウス"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10089,6 +11713,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3 düğmeli fare"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Миша з 3 кнопками"
           }
         },
         "vi" : {
@@ -10150,6 +11780,12 @@
             "value" : "Une souris avec plus de 5 boutons"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "5ボタン以上のマウス"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -10172,6 +11808,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "5+ düğmeli fare"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Миша з 5+ кнопками"
           }
         },
         "vi" : {
@@ -10233,6 +11875,12 @@
             "value" : "Restaurer les réglages par défaut pour ..."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "初期設定に戻す…"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10255,6 +11903,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "... için varsayılan ayarları geri yükle"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відновити за замовчуванням для ..."
           }
         },
         "vi" : {
@@ -10316,6 +11970,12 @@
             "value" : " **Cliquer ici** pour charger les paramètres recommandés\npour votre souris **%@**"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お使いのマウス（**%@**）の推奨設定を読み込むには、**こちらをクリック**してください"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -10340,9 +12000,15 @@
             "value" : " **%@** fareniz için önerilen ayarları yüklemek için **buraya tıklayın**"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Клацніть тут**, щоб завантажити рекомендовані налаштування для вашої миші (**%@**)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "**Nhấp vào đây** để tải cài đặt khuyến nghị\ncho chuột **%@**"
           }
         },
@@ -10399,10 +12065,22 @@
             "value" : "Mac Mouse Fix **activé** pour %1$@\nIl a été désactivé depuis la barre des menus %2$@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@でMac Mouse Fixを**有効**にしました\nメニューバー%2$@から無効に設定されていました"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "%1$@에 대한 Mac Mouse Fix 동작이 **다시 활성화**되었습니다.\n이는 사용자에 의해 메뉴 막대 %2$@ 에서 수동으로 비활성화되어있었습니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Aktivert** Mac Mouse Fix for %1$@\nDen hadde blitt deaktivert fra Menu&nbsp;Bar&nbsp;%2$@"
           }
         },
         "pt-BR" : {
@@ -10423,10 +12101,16 @@
             "value" : "%1$@ için Mac Mouse Fix **etkinleştirildi**\nMenü Bar %2$@ alanından devre dışı bırakılmıştı"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Увімкнено** Mac Mouse Fix для %1$@\nЦе було відключено з меню&nbsp;Bar&nbsp;%2$@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "**Đã kích hoạt** Mac Mouse Fix trong %1$@\nNó đã bị bất hoạt từ thanh menu %2$@"
+            "state" : "translated",
+            "value" : "**Đã kích hoạt** Mac Mouse Fix cho %1$@\nNó đã bị tắt từ thanh menu %2$@"
           }
         },
         "zh-Hans" : {
@@ -10482,6 +12166,12 @@
             "value" : "**Boutons**"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**ボタン**"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -10506,9 +12196,15 @@
             "value" : "**Düğmeler**"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Кнопки**"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "**Nút**"
           }
         },
@@ -10565,6 +12261,12 @@
             "value" : "**Défilement**"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**スクロール**"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10589,9 +12291,15 @@
             "value" : "**Kaydırma**"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Прокрутка**"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "**Cuộn**"
           }
         },
@@ -10648,6 +12356,12 @@
             "value" : "Bureau & Launchpad"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デスクトップとLaunchpad"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10670,6 +12384,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Masaüstü ve Launchpad"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Робочий стіл та Launchpad"
           }
         },
         "vi" : {
@@ -10731,6 +12451,12 @@
             "value" : "Défiler vers le haut pour le Launchpad et vers le bas pour afficher le Burean \nFonctionne comme le pincement avec 4 doigts sur un Trackpad Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上にスクロールしてLaunchpadを表示、下にスクロールしてデスクトップを表示\n\nAppleトラックパッドの「4本指でピンチ」と同じように動作します"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10753,6 +12479,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Launchpad için yukarı kaydırın ve Masaüstünü göstermek için aşağı kaydırın\n \nApple İzleme Dörtgeninde 4 parmağı birleştirmek gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокрутіть вгору для Launchpad і вниз, щоб показати робочий стіл\n \nПрацює як розведення/зведення 4 пальців на трекпеді Apple"
           }
         },
         "vi" : {
@@ -10783,6 +12515,7 @@
     },
     "scroll-effect.app-switcher" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -10814,6 +12547,12 @@
             "value" : "Basculement entre apps"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appスイッチャー"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10836,6 +12575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uygulama Değiştirici"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перемикач програм"
           }
         },
         "vi" : {
@@ -10866,6 +12611,7 @@
     },
     "scroll-effect.app-switcher.hint" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -10897,6 +12643,12 @@
             "value" : "Basculer rapidement entre les apps ouvertes\n \nFonctionne comme en maintenant Commande (⌘) et en appuyant sur Tab (⇥) sur votre clavier"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開いているアプリをすばやく切り替える\n\nキーボードでCommand(⌘)を押しながらTab(⇥)を押すのと同じように動作します"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10919,6 +12671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Açık uygulamalar arasında hızlıca geçiş yapın\n \nKlavyenizde Command (⌘) tuşunu basılı tutup ardından Tab (⇥) tuşuna basmak gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Швидко перемикайтеся між відкритими програмами\n \nПрацює як утримування Command (⌘) та клацання Tab (⇥) на клавіатурі"
           }
         },
         "vi" : {
@@ -10980,6 +12738,12 @@
             "value" : "Défilement horizontal"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "横スクロール"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11002,6 +12766,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yatay Kaydırma"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Горизонтальна прокрутка"
           }
         },
         "vi" : {
@@ -11063,6 +12833,12 @@
             "value" : "Défiler sur la gauche et la droite, naviguer entre les pages sur Safari, supprimer les messages dans Mail et bien plus\n \nFonctionne comme le balayage horizontal avec un Trackpad Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "左右にスクロール、Safariでのページ間移動、メールでのメッセージ削除などが可能です。\n\nAppleトラックパッドでの「2本指で左右にスワイプ」と同じように動作します。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11085,6 +12861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sola ve sağa kaydırın, Safari'de sayfalar arasında gezinin, Mail'deki mesajları silin ve daha fazlasını yapın\n \nApple İzleme Dörtgeninde 2 parmakla yatay olarak kaydırma gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокручуйте вліво та вправо, переходьте між сторінками в Safari, видаляйте повідомлення в Пошті та багато іншого\n \nПрацює як проведення двома пальцями по трекпеду Apple"
           }
         },
         "vi" : {
@@ -11146,6 +12928,12 @@
             "value" : "Défilement précis"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "精密なスクロール"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11168,6 +12956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hassas Kaydırma"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Точна прокрутка"
           }
         },
         "vi" : {
@@ -11229,6 +13023,12 @@
             "value" : "Défiler de petites distances et utiliser des éléments d'IU sensibles avec précision"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "わずかな距離のスクロールや、繊細なUI要素の操作を精密に行うことができます。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11251,6 +13051,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kısa mesafeleri kaydırın ve hassas arayüz öğelerini incelikle kullanın"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокручуйте на невеликі відстані та з точністю використовуйте чутливі елементи інтерфейсу"
           }
         },
         "vi" : {
@@ -11312,6 +13118,12 @@
             "value" : "Pivoter"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回転"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11334,6 +13146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Döndür"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поворот"
           }
         },
         "vi" : {
@@ -11395,6 +13213,12 @@
             "value" : "Pivoter le contenu dans Apple Plans et d'autres apps\n \nFonctionne comme si l'on tournait avec deux doigts sur un Trackpad Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appleマップやその他のアプリで表示内容を回転\n\nAppleトラックパッドでの「2本指で回転」と同じように動作します"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11417,6 +13241,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apple Haritalar ve diğer uygulamalarda içeriği döndürün\n \nApple İzleme Dörtgeninde 2 parmakla döndürme gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повертайте вміст в Apple Maps та інших програмах\n \nПрацює як поворот двома пальцями на трекпеді Apple"
           }
         },
         "vi" : {
@@ -11478,6 +13308,12 @@
             "value" : "Déplacer entre les espaces"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スペース間を移動"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11500,6 +13336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Space'ler Arasında Geçiş Yap"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перехід між просторами"
           }
         },
         "vi" : {
@@ -11561,6 +13403,12 @@
             "value" : "Défiler vers le haut pour se déplacer d'un espace vers la gauche et vers le bas pour se déplacer d'un espace vers la droite\n \nFonctionne comme le balayage horizontal avec 3 doigts sur un Trackpad Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上にスクロールして左のスペースへ移動、下にスクロールして右のスペースへ移動\n\nAppleトラックパッドでの「3本指で左右にスワイプ」と同じように動作します"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11583,6 +13431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bir Space sola gitmek için yukarı kaydırın ve bir Space sağa gitmek için aşağı kaydırın\n \nApple İzleme Dörtgeninde 3 parmakla yatay olarak kaydırma gibi çalışır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокрутіть вгору, щоб перейти ліворуч на Простір, і вниз, щоб перейти праворуч\n \nПрацює як проведення трьома пальцями по трекпеду Apple"
           }
         },
         "vi" : {
@@ -11644,6 +13498,12 @@
             "value" : "Défilement rapide"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高速スクロール"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11666,6 +13526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hızlı Kaydırma"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Швидка прокрутка"
           }
         },
         "vi" : {
@@ -11727,6 +13593,12 @@
             "value" : "Défiler de longues distances avec un effort minimal"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "少ない操作で長い距離をスクロール"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11749,6 +13621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Düşük efor ile uzun mesafe kaydırın"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прокручуйте великі відстані з мінімальними зусиллями"
           }
         },
         "vi" : {
@@ -11810,6 +13688,12 @@
             "value" : "Zoom avant ou arrière"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡大・縮小"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11831,7 +13715,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yakınlaştır / Uzaklaştır"
+            "value" : "Yakınlaştır veya Uzaklaştır"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Масштаб"
           }
         },
         "vi" : {
@@ -11893,6 +13783,12 @@
             "value" : "Zoomer en avant ou en arrière dans Safari, Plans et d'autres apps\n \nFonctionne comme le pincement pour zoomer sur un Trackpad Apple"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safari、マップ、その他のアプリで拡大・縮小\n\nAppleトラックパッドでの「ピンチしてズーム」と同じように動作します"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11915,6 +13811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Safari, Maps ve diğer uygulamalarda yakınlaştırın ve uzaklaştırın\n\nApple İzleme Dörtgeninde iki parmakla kıstırma/açma gibi çalışır\n"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Змінюйте масштаб у Safari, Картах та інших програмах\n \nПрацює як масштабування пальцями на трекпеді Apple"
           }
         },
         "vi" : {
@@ -11976,6 +13878,12 @@
             "value" : "Réglages Système"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システム設定"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11998,6 +13906,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sistem Ayarları"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Системні параметри"
           }
         },
         "vi" : {
@@ -12059,6 +13973,12 @@
             "value" : "Préférences Système"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システム環境設定"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12081,6 +14001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sistem Tercihleri"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Системні параметри"
           }
         },
         "vi" : {
@@ -12142,6 +14068,12 @@
             "value" : "⭐️ Merci d'avoir acheté Mac Mouse Fix !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⭐️ Mac Mouse Fixをご購入いただき、ありがとうございます！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12164,6 +14096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⭐️ Mac Mouse Fix'i satın aldığınız için teşekkürler!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⭐️ Дякую Тобі за покупку Mac Mouse Fix!"
           }
         },
         "vi" : {
@@ -12225,6 +14163,12 @@
             "value" : "🌟 Merci d'avoir acheté Mac Mouse Fix !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🙌 Mac Mouse Fixをご購入いただき、ありがとうございます！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -12249,10 +14193,16 @@
             "value" : "🌟 Mac Mouse Fix'i satın aldığınız için teşekkürler!"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🙌 Дякую за покупку Mac Mouse Fix!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "🌟 Cảm ơn bạn đã mua Mac Mouse Fix!"
+            "state" : "translated",
+            "value" : "🙌 Cảm ơn bạn đã mua Mac Mouse Fix!"
           }
         },
         "zh-Hans" : {
@@ -12308,6 +14258,12 @@
             "value" : "🚀 Merci de soutenir Mac Mouse Fix !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🚀 Mac Mouse Fixを応援していただき、ありがとうございます！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12330,6 +14286,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🚀 Mac Mouse Fix'i desteklediğiniz için teşekkürler!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🚀 Дякую за підтримку Mac Mouse Fix!"
           }
         },
         "vi" : {
@@ -12391,6 +14353,12 @@
             "value" : "🙌 Merci d'avoir acheté Mac Mouse Fix !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌟 Mac Mouse Fixをご購入いただき、ありがとうございます！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -12415,10 +14383,16 @@
             "value" : "🙌 Mac Mouse Fix'i satın aldığınız için teşekkürler!"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌟 Дякую за придбання Mac Mouse Fix!"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "🙌 Cảm ơn bạn đã mua Mac Mouse Fix!"
+            "state" : "translated",
+            "value" : "🌟 Cảm ơn bạn đã mua Mac Mouse Fix!"
           }
         },
         "zh-Hans" : {
@@ -12474,6 +14448,12 @@
             "value" : "🧠 Une excellente décision d'achat ! ;)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧠 賢い選択ですね！(^_<)〜☆"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12496,6 +14476,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🧠 Muhteşem bir satın alma seçimi! ;)"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🧠 Чудове рішення про покупку! ;)"
           }
         },
         "vi" : {
@@ -12557,6 +14543,12 @@
             "value" : "🔥 Excellent goût dans les logiciels permettant d'améliorer les souris ! ;)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔥 マウス最適化ソフトのセンスが抜群ですね！(^_<)〜☆"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12579,6 +14571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🔥 Fare düzeltme uygulamaları arasında müthiş bir seçim! ;)"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🔥 Чудовий смак у виборі ПЗ для миші! ;)"
           }
         },
         "vi" : {
@@ -12640,6 +14638,12 @@
             "value" : "👽 Partagez-le avec vos amis Spacebook !"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👽 Spacebookの友達にシェアしよう！"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12662,6 +14666,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "♾️ 1881 - ∞ | Gazi Başkomutanımız Mustafa Kemal Atatürk anısına."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "👽 Поділіться цим зі своїми друзями у Spacebook!"
           }
         },
         "vi" : {
@@ -12723,6 +14733,12 @@
             "value" : "🧼 Se laver les mains en sortant des toilettes n'est pas facultatif :D"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🦆 アヒルの水かきは永遠に"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -12747,9 +14763,15 @@
             "value" : "🎸 Tebrikler! Ödül olarak kendine bir Kayseri Yağlaması yap!"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🦆 Entengang für immer"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "🏂 Phê chữ ê kéo dàiiiii!!"
           }
         },
@@ -12806,6 +14828,12 @@
             "value" : "🐹 Nous devrions lui offrir un nœud papillon."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🐹 彼に蝶ネクタイをプレゼントしてあげたいですね。"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12828,6 +14856,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🅰️ AAAAAAAAAAAAAAAAA"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🐹 Ми повинні дістати йому краватку-метелика."
           }
         },
         "vi" : {
@@ -12889,6 +14923,12 @@
             "value" : "🐠 Qu'êtes... vous?"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🐠 君は... 一体... 何者なんだ...？"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -12913,9 +14953,15 @@
             "value" : "⛑️ Kaskını takmadan trafiğe çıkma."
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🐠 Що... Ти... Таке?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "🐠 Bạn... là... ai?"
           }
         },
@@ -12966,6 +15012,12 @@
             "value" : "🐁 ¡La mascota personal del comerciante!"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🐁 商人のお気に入りのペットなんです！"
+          }
+        },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12982,6 +15034,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🏍️ Sence de CBR 1000RR-R'ın isminde çok fazla R yok mu?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🐁 Особистий улюбленець торговця!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🐁 Thú cưng của con buôn!"
           }
         },
         "zh-Hans" : {
@@ -13025,6 +15089,12 @@
             "value" : "🌏 D'abord la souris, ensuite le monde !! >:)"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌏 まずはマウス、そして次は世界だ！！(｀∀´)"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13049,10 +15119,16 @@
             "value" : "🇹🇷 Çevirmene de teşekkür etmeyi unutma!"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🌍 Спочатку мишки, потім — увесь світ!! >:)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "🌏 Sửa xong con chuột, anh sau đi cứu thế giới! >:)"
+            "value" : "🌏 Sửa xong con chuột rồi anh đi cứu thế giới! >:)"
           }
         },
         "zh-Hans" : {
@@ -13108,6 +15184,12 @@
             "value" : "Jour gratuit **%1$d/%2$d**"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お試し期間 **%1$d/%2$d**"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -13132,9 +15214,15 @@
             "value" : "Ücretsiz günü **%1$d/%2$d**"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Безкоштовний день **%1$d/%2$d**"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Bạn đang dùng thử miễn phí **%1$d/%2$d** ngày"
           }
         },
@@ -13191,6 +15279,12 @@
             "value" : "Les jours offerts sont terminés"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お試し期間は終了しました"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13213,6 +15307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ücretsiz günleri sona erdi"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Безкоштовні дні закінчилися"
           }
         },
         "vi" : {
@@ -13274,6 +15374,12 @@
             "value" : "Activer une licence"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライセンスを有効にする…"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13296,6 +15402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lisansı Aktifleştir"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активувати ліцензію"
           }
         },
         "vi" : {
@@ -13357,6 +15469,12 @@
             "value" : "Bonjour ! Vous avez utilisé Mac Mouse Fix pendant maintenant **%1$d jours**. J'espère que vous l'appréciez !\n\nSi vous voulez continuer d'utiliser Mac Mouse Fix, vous pouvez [l'acheter maintenant](%2$@)."
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こんにちは！Mac Mouse Fixを使い始めて、今日で**%1$d日**になりますね。快適にお使いいただけていますか？\n\n引き続きMac Mouse Fixをご利用いただくには、[こちらからご購入](%2$@)いただけます"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -13381,9 +15499,15 @@
             "value" : "Merhaba! **%1$d gündür** Mac Mouse Fix kullanıyorsunuz. Umarım keyif alıyorsunuzdur!\n\nMac Mouse Fix'i kullanmaya devam etmek istiyorsanız, [şimdi satın alabilirsiniz](%2$@)."
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вітаємо! Ви користуєтеся Mac Mouse Fix уже **%1$d дн.** Сподіваємося, вам подобається!\n\nЯкщо ви хочете продовжувати користуватися Mac Mouse Fix, ви можете [купити його зараз](%2$@)."
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Xin chào! Bạn đã sử dụng Mac Mouse Fix được **%1$d ngày**. Mong rằng bạn sẽ thích nó!\n\nNếu bạn muốn tiếp tục sử dụng Mac Mouse Fix, bạn có thể [mua ngay](%2$@)."
           }
         },
@@ -13440,6 +15564,12 @@
             "value" : "clic %@ +"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリック%@ +"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13461,13 +15591,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Tıkla +"
+            "value" : "%@ düğmesine tıkla +"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клацання %@ +"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích %@ +"
+            "state" : "translated",
+            "value" : "Nhấn %@ +"
           }
         },
         "zh-Hans" : {
@@ -13523,6 +15659,12 @@
             "value" : "double-clic %@ +"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダブルクリック%@ +"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13547,10 +15689,16 @@
             "value" : "%@ düğmesine çift tıkla +"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подвійне клацання %@ +"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích đúp %@ +"
+            "state" : "translated",
+            "value" : "Nhấn đúp %@ +"
           }
         },
         "zh-Hans" : {
@@ -13606,6 +15754,12 @@
             "value" : "triple-clic %@ +"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリプルクリック%@ +"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13627,13 +15781,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Üç Kez Tıkla +"
+            "value" : "%@ düğmesine üç kez tıkla +"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потрійне клацання %@ +"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích ba lần %@ +"
+            "state" : "translated",
+            "value" : "Nhấn ba lần %@ +"
           }
         },
         "zh-Hans" : {
@@ -13689,10 +15849,22 @@
             "value" : "Bouton du milieu"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホイールボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "가운데 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midtre knapp"
           }
         },
         "pt-BR" : {
@@ -13713,9 +15885,15 @@
             "value" : "Orta düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Середня кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút giữa"
           }
         },
@@ -13772,6 +15950,12 @@
             "value" : "Bouton %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ボタン%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -13793,12 +15977,18 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Düğme %@"
+            "value" : "%@ Düğmesi"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кнопка %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút %@"
           }
         },
@@ -13855,10 +16045,22 @@
             "value" : "Bouton principal"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主ボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "주 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primærknapp"
           }
         },
         "pt-BR" : {
@@ -13879,9 +16081,15 @@
             "value" : "Birincil Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основна кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút chính"
           }
         },
@@ -13938,10 +16146,22 @@
             "value" : "Bouton secondaire"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "副ボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "보조 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekundær knapp"
           }
         },
         "pt-BR" : {
@@ -13962,9 +16182,15 @@
             "value" : "İkincil Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Другорядна кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút phụ"
           }
         },
@@ -14021,6 +16247,12 @@
             "value" : "clic %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリック%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14042,13 +16274,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Tıkla"
+            "value" : "%@ düğmesine tıkla"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клацання %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích %@"
+            "state" : "translated",
+            "value" : "Nhấn %@"
           }
         },
         "zh-Hans" : {
@@ -14104,6 +16342,12 @@
             "value" : "double-clic %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダブルクリック%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14128,10 +16372,16 @@
             "value" : "%@ düğmesine çift tıkla"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подвійне клацання %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích đôi %@"
+            "state" : "translated",
+            "value" : "Nhấn đúp %@"
           }
         },
         "zh-Hans" : {
@@ -14187,6 +16437,12 @@
             "value" : "triple-clic %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリプルクリック%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14208,13 +16464,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Üç Kez Tıkla"
+            "value" : "%@ düğmesine üç kez tıkla"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потрійне клацання %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích ba lần %@"
+            "state" : "translated",
+            "value" : "Nhấn ba lần %@"
           }
         },
         "zh-Hans" : {
@@ -14270,6 +16532,12 @@
             "value" : "clic et glissement %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリックと*ドラッグ*%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -14291,13 +16559,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Tıkla ve Sürükle"
+            "value" : "%@ düğmesine tıkla ve *Sürükle*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клацання та *Перетягування* %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích và kéo %@"
+            "state" : "translated",
+            "value" : "Nhấn và kéo %@"
           }
         },
         "zh-Hans" : {
@@ -14353,6 +16627,12 @@
             "value" : "double-clic et glissement %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダブルクリックと*ドラッグ*%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -14374,18 +16654,24 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ düğmesine çift tıkla ve sürükle"
+            "value" : "%@ düğmesine çift tıkla ve *Sürükle*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подвійне клацання та *Перетягування* %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích đôi và kéo %@"
+            "state" : "translated",
+            "value" : "Nhấn đúp và kéo %@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "连按并拖移%@"
           }
         },
@@ -14436,6 +16722,12 @@
             "value" : "triple-clic et glissement %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリプルクリックと*ドラッグ*%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -14457,13 +16749,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Üç Kez Tıkla ve Kaydır"
+            "value" : "%@ düğmesine üç kez tıkla ve *Sürükle*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потрійне клацання та *Перетягування* %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích ba lần và kéo %@"
+            "state" : "translated",
+            "value" : "Nhấn ba lần và kéo %@"
           }
         },
         "zh-Hans" : {
@@ -14519,6 +16817,12 @@
             "value" : "et glissement"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "と*ドラッグ*"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -14540,12 +16844,18 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ve sürükle"
+            "value" : "ve *Sürükle*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "і *Перетягування*"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "và kéo"
           }
         },
@@ -14602,6 +16912,12 @@
             "value" : "maintien %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホールド%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14623,12 +16939,18 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Tıkla ve Basılı Tut"
+            "value" : "%@ düğmesine tıkla ve basılı tut"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Утримування %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Giữ %@"
           }
         },
@@ -14685,6 +17007,12 @@
             "value" : "double-clic et maintien %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダブルクリックとホールド%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14709,10 +17037,16 @@
             "value" : "%@ düğmesine çift tıkla ve basılı tut"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подвійне клацання та утримування %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích đôi và giữ %@"
+            "state" : "translated",
+            "value" : "Nhấn đúp và giữ %@"
           }
         },
         "zh-Hans" : {
@@ -14768,6 +17102,12 @@
             "value" : "triple-clic et maintien %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリプルクリックとホールド%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14789,13 +17129,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Üç Kez Tıkla ve Basılı Tut"
+            "value" : "%@ düğmesine üç kez tıkla ve basılı tut"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потрійне клацання та утримування %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích ba lần và giữ %@"
+            "state" : "translated",
+            "value" : "Nhấn ba lần và giữ %@"
           }
         },
         "zh-Hans" : {
@@ -14851,6 +17197,12 @@
             "value" : "clic et défilement %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クリックと*スクロール*%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -14872,13 +17224,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Tıkla ve Kaydır"
+            "value" : "%@ düğmesine tıkla ve *Kaydır*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клацання та *Прокрутка* %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích và cuộn %@"
+            "state" : "translated",
+            "value" : "Nhấn và cuộn %@"
           }
         },
         "zh-Hans" : {
@@ -14934,6 +17292,12 @@
             "value" : "double-clic et défilement %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダブルクリックと*スクロール*%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -14955,18 +17319,24 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ düğmesine çift tıkla ve kaydır"
+            "value" : "%@ düğmesine çift tıkla ve *Kaydır*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подвійне клацання та *Прокрутка* %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích đôi và cuộn %@"
+            "state" : "translated",
+            "value" : "Nhấn đúp và cuộn %@"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "连按并滚动%@"
           }
         },
@@ -15017,6 +17387,12 @@
             "value" : "triple-clic et défilement %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トリプルクリックと*スクロール*%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -15038,13 +17414,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ Üç Kez Tıkla ve Kaydır"
+            "value" : "%@ düğmesine üç kez tıkla ve *Kaydır*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потрійне клацання та *Прокрутка* %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Kích ba lần và cuộn %@"
+            "state" : "translated",
+            "value" : "Nhấn ba lần và cuộn %@"
           }
         },
         "zh-Hans" : {
@@ -15100,6 +17482,12 @@
             "value" : "et défilement"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "と*スクロール*"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -15121,12 +17509,18 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ve kaydır"
+            "value" : "ve *Kaydır*"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "і *Прокрутка*"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "và cuộn"
           }
         },
@@ -15183,10 +17577,22 @@
             "value" : "Bouton du milieu"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホイールボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "가운데 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midtre knapp"
           }
         },
         "pt-BR" : {
@@ -15207,9 +17613,15 @@
             "value" : "Orta Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Середня кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút giữa"
           }
         },
@@ -15266,6 +17678,12 @@
             "value" : "Bouton %@"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ボタン%@"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -15287,12 +17705,18 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Düğme %@"
+            "value" : "%@ Düğmesi"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кнопка %@"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút %@"
           }
         },
@@ -15349,10 +17773,22 @@
             "value" : "Bouton principal"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主ボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "주 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primærknapp"
           }
         },
         "pt-BR" : {
@@ -15373,9 +17809,15 @@
             "value" : "Birincil Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основна кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút chính"
           }
         },
@@ -15432,10 +17874,22 @@
             "value" : "Bouton secondaire"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "副ボタン"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "보조 버튼"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekundær knapp"
           }
         },
         "pt-BR" : {
@@ -15456,9 +17910,15 @@
             "value" : "İkincil Düğme"
           }
         },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Другорядна кнопка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Nút phụ"
           }
         },
@@ -15515,6 +17975,12 @@
             "value" : "Taper le raccourci clavier"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キーボードショートカットを入力してください"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15537,6 +18003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bir Klavye Kısayolu Yazın"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введіть комбінацію клавіш"
           }
         },
         "vi" : {

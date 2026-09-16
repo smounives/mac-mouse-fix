@@ -35,10 +35,22 @@
             "value" : "Terminé"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "완료"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ferdig"
           }
         },
         "pt-BR" : {
@@ -57,6 +69,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tamam"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Готово"
           }
         },
         "vi" : {
@@ -119,10 +137,22 @@
             "value" : "Recommandé pour les souris « Trackball »"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トラックボールマウスにおすすめ"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "트랙볼 마우스에 적합한 옵션입니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anbefales for styrekulemus"
           }
         },
         "pt-BR" : {
@@ -141,6 +171,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trackball Tip fareler için önerilir"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рекомендовано для Трекболів"
           }
         },
         "vi" : {
@@ -203,10 +239,22 @@
             "value" : "Verrouiller le pointeur de la souris pendant les gestes « Cliquer et lâcher »"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "'クリックしてドラッグ'ジェスチャ中はマウスポインタを固定"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "'클릭 및 드래그' 제스처 시 마우스 포인터 잠금"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lås musepekeren under klikk-og-dra-bevegelser"
           }
         },
         "pt-BR" : {
@@ -223,14 +271,20 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "'Tıklama ve Sürükleme' Hareketleri Sırasında Fare İmlecini Kilitle"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Блокувати вказівник миші під час жестів 'Клацання та Перетягування'"
           }
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Khóa vị trí con trỏ chuột khi nhấp và kéo"
+            "state" : "translated",
+            "value" : "Khoá con trỏ chuột trong suốt 'Nhấn và Kéo' cử chỉ"
           }
         },
         "zh-Hans" : {
